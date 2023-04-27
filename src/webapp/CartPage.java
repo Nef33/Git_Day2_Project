@@ -6,4 +6,6 @@ public class CartPage {
     //sale
 
     //clearence
+
+    //update
 }
